@@ -6,3 +6,6 @@
 - Regression
 1. Knn
 2. RandomForest
+
+- Special Trial
+  1. Feature Engineering
