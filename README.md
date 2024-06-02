@@ -10,11 +10,11 @@
 - Evaluate
 - Regression
 1. Linear Regression
-2. Rogistic Regression
 - Classification
-1. Decision Tree
-2. Knn
-3. RandomForest
+1. Rogistic Regression
+2. Decision Tree
+3. Knn
+4. RandomForest
 - Special Trial
   1. Feature Engineering
 
@@ -30,9 +30,9 @@
 # Model Evaluation
 ### Regression
 - Linear Regression with Feature Engineering
-- Rogistic Regression
 ### Clustering
-- Dicision Tree
+- Logistic Regression
+- Decision Tree
 - KNN
 - RandomForest
 # Special trial
