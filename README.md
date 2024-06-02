@@ -1,4 +1,9 @@
 # end-to-end-data-science-project
+# Advantage
+> Predict Wine Quality
+> Preparing products based on attribute values that are highly correlated with quality can be beneficial
+> The model allows for quick qualification after ingredient analysis, which can have a positive impact on pricing time.
+> It's now possible to measure quality even when ingredients are scarce
 # Table
 - Data
 - Preprocessing
