@@ -30,4 +30,7 @@
 - Dicision Tree
 - KNN
 - RandomForest
+# Special trial
+### Regression Model
+- Polinomial Regression
 
