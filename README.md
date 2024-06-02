@@ -10,4 +10,6 @@
 - Special Trial
   1. Feature Engineering
 
-# 
+# Data
+
+[Uploading winequalityN.csv…]()
