@@ -11,7 +11,7 @@
 - Regression
 1. Linear Regression
 2. Rogistic Regression
-- Clustering
+- Classification
 1. Decision Tree
 2. Knn
 3. RandomForest
